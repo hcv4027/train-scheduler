@@ -1,0 +1,68 @@
+body {
+	margin: 20px 0px 20px 0px;
+}
+
+.container {
+
+}
+
+.header {
+	background-color: #dff0d8;
+
+}
+
+.header h1 {
+	color:#5f8847;
+	font-size: 5vw;
+	line-height: 0px;
+	margin:0px;
+	padding-bottom:0px;
+
+}
+
+#icon {
+	float: left;
+	padding:0;
+}
+
+#clock {
+	text-align: right;
+}
+
+#addTitle {
+	float: left;
+	padding:0px;
+}
+
+#add {
+	text-align: right;
+	padding:0;
+}
+
+label {
+	margin-top: 20px;
+}
+
+#timeFormat {
+	font-size: 12px;
+}
+
+button {
+	margin-top: 20px;
+}
+
+div#newTrainSchedule.panel-body{
+	height: 0px;
+	max-height: 400px;
+	visibility: hidden;
+	padding: 0px 15px 0px 15px;
+}
+
+.newTrainInput {
+	padding:0px;
+
+}
+
+#newTrain {
+	text-align: right;
+}
